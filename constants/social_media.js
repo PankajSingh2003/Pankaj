@@ -24,6 +24,6 @@ export const SOCIAL_MEDIA = [
 		id: "resume",
 		icon: <BsPersonSquare />,
 		title: "Visit my Resume",
-		url: "https://drive.google.com/file/d/1Vrwny81bA6zk6chkdM44RbZKeL9bMoi2/view?usp=sharing"
+		url: "https://drive.google.com/file/d/1gHbXip3SrH4JmBrQY4OOfBK3WheGDpLG/view?usp=sharing"
 	}
 ];
