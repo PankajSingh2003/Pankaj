@@ -4,9 +4,9 @@ import { useEffect, useRef, useState } from "react";
 import { LazyMotion, domAnimation, useInView } from "framer-motion";
 
 const TimeLineData = [
-	{ year: 2023, text: "Dive completely Web Development" },
-	{ year: 2022, text: "Completed my first year with 8.85 CGPA" },
-	{ year: 2021, text: "Start my journey in KIET Group of Institutions" },
+	{ year: 2023, text: "Dive completely Web into Development" },
+	{ year: 2022, text: "Completed my B.tech first year with 8.85 CGPA" },
+	{ year: 2021, text: "Started my journey in KIET Group of Institutions" },
 	{ year: 2020, text: "Completed my 12 (Intermediate) 81%" },
 	{ year: 2018, text: "Completed my High School with 83%" }
 ];
