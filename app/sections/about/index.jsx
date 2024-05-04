@@ -25,10 +25,10 @@ export function AboutSection() {
 						}}
 					>
 						<p>
-							I am currently pursuing B. Tech. in Computer Science and Information Technology (AKTU). I did my schooling at Kendriya Vidyalaya, Mankhurd, Mumbai. Since my father is in the military, so have lived in more than 8 different locations across India. My long-term goal is to become a skilled software developer and create projects that could positively impact people's lives, even if only in small ways. 
+							I am currently pursuing B. Tech. in Computer Science and Information Technology (AKTU) and did my schooling at Kendriya Vidyalaya, Mankhurd, Mumbai. Since my father is in the military, I have lived in more than 8 different locations across India. My long-term goal is to become a skilled software developer and create projects that could positively impact people's lives, even if only in small ways. 
 </p>
 						<p>
-For my tech stack, I am already familiar with programming languages such as Python, C, R and primarily use C++ to solve DSA-based questions on platforms like LeetCode and Codeforces. I also have a keen interest in web development, so I am familiar with JavaScript, Node.js, React and use MySQL for my DBMS. A fun fact about myself is that I have a typing speed of 104 wpm. In addition to all this, I am highly fascinated by new technologies coming out and aspire to integrate them into my projects and daily life.
+For my tech stack, I am already familiar with programming languages such as Python, C, and R, and primarily use C++ to solve DSA-based questions on platforms like LeetCode and Codeforces. I also have a keen interest in web development, so I am familiar with JavaScript, Node.js, React, and use MySQL for my DBMS. A fun fact about myself is that I have a average typing speed of 104 wpm. In addition to all this, I am highly fascinated by new technologies coming out and aspire to integrate them into my projects and daily life.
 						</p>
 					</div>
 				</div>
