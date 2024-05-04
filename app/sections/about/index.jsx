@@ -25,15 +25,9 @@ export function AboutSection() {
 						}}
 					>
 						<p>
-							My name is Pankaj. Currently, I am pursuing BTech in Computer Science from KIET Group of Institution and my long term goal is to be a Software Devloper.
-							During my university 2nd year, I developed a deep passion for web programming, and I
-							consistently engaged in learning new concepts and techniques in this field.
-							</p>
+							I am currently pursuing B. Tech. in Computer Science and Information Technology (AKTU). I did my schooling at Kendriya Vidyalaya, Mankhurd, Mumbai. Since my father is in the military, so have lived in more than 8 different locations across India. My long-term goal is to become a skilled software developer and create projects that could positively impact people's lives, even if only in small ways. 
 
-						< p className="my-3.5"> One day, I decided to try something new, and I started learning React. I was so excited to see how fast I can build a website with it, and how easy it is to maintain it. Consequently, I quickly learnt Next.js and I used it to build some clubs projects working in a team with a backend dev.
-						</p>
-						<p className="my-3.5">
-						As someone who enjoys learning new things, I have already gained knowledge of programming languages such as C++, C, and Python in additon I also have proficiency in Data Strucutres and Algorithm, and I am keen to explore others. My strong work ethic means that I am always punctual and complete tasks on time. I am passionate about discovering new technologies and creating modern Website Designs, and I have a talent for quickly picking up new skills in this area.
+For my tech stack, I am already familiar with programming languages such as Python, C, R and primarily use C++ to solve DSA-based questions on platforms like LeetCode and Codeforces. I also have a keen interest in web development, so I am familiar with JavaScript, Node.js, React and use MySQL for my DBMS. A fun fact about myself is that I have a typing speed of 104 wpm. In addition to all this, I am highly fascinated by new technologies coming out and aspire to integrate them into my projects and daily life.
 						</p>
 					</div>
 				</div>
